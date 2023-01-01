@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @D4N13L68
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning SQL, Python, and Project Management
+- 💞️ I’m looking to collaborate on anything - would love it if I could tag along with some pros and do some of the more mundane work, pro-bono within reason.
+- 📫 dlesnick68@gmail.com
